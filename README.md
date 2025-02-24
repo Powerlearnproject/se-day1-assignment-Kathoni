@@ -5,15 +5,36 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+**software enineering is the process of developing, testing and maintaining software system applications.
+Imporance of software engineering are;
+ 1.It ensures that software systems are efficient and easily navigatable to the society
+ 2.It drives innovation such that people in technology industry come up with great methodology to assist in problem solving.
+ 3.It enables automation and digital transformation promotig tansition from manual process to digital process.
+ 4.It encourages teamwork that helps techies work more efficiently and swiftly.**
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+**1.Rise of DevOps and Cloud computing;
+      Emmerging new tech trends such as cloud computing have increased software scalability,security and accesibility making large data not an 
+      issue.
+      AI also plays a leading role in modern software engineering by shaping it making development more efficient.
+  2.**
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
+**The software development life cycle is as follows;
+1.Planning - Herer we  define the project scope, goals, feasibility, risks, and resource allocation for accountability budgetwise.
+2.Analysis - We analyse the situation at hand and check for the necessary requirements to meet the developmet.
+3.Design - Here we come up with system architecture, database design and UI/UX layout for the software
+4.Coding process - Here we now start making the software system  based on the design specifications by invocking codes using appropriate 
+  programming languages.
+5.Testing and fixing of bugs - Code reviews are done and to identify and fix bugs and ensure the system is running swiftly.
+6.Deployment - The tested software is released to the production environment for end-users, either in phases or all at once.
+7.Maintanance - This is where the system is maintained to  ensure the software remains functional and secure over time.**
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+**The waterfall model states that a project hasseveral stages—requirements, analysis, design, coding, testing, and maintenance
+and their implementation is sequential, meaning the next stage cannot be started before theprevious one has been closed, documented, and approved for example a healthcare system requires fixed, structured processes.Agile model is based on the fact that the only thing that does not change is change in other words everything is bound to change for example a school mess hall system thats eccomerce in nature requires continuous improvements based on user feedback.**
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
